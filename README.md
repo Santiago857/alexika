@@ -2,7 +2,7 @@
   <h1>Alexandria</h1>
   <img src="docs/images/logo.png" height="400" width="400">
   <br />
-  <a href="https://github.com/keep-starknet-strange/alexandria/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/keep-starknet-strange/alexandria/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a, Bug</a>
   -
   <a href="https://github.com/keep-starknet-strange/alexandria/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   -
